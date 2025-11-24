@@ -22,6 +22,7 @@
   "system": {
     "antiCall": true,
     "antiSpam": true,
-    "autoClear": true
+    "autoClear": true,
+    "autoRead": true
   }
 }
