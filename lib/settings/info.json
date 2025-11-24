@@ -1,0 +1,27 @@
+{
+  "bot": {
+    "name": "Arceo - Bot",
+    "number": "6285923507120",
+    "version": "1.0",
+    "usePrefix": true
+  },
+  "owner": {
+    "name": "Sanjaya",
+    "number": "6289654057716"
+  },
+  "sticker": {
+    "name": "WhatsApp",
+    "author": "Arceo - Bot"
+  },
+  "session": {
+    "name": "session",
+    "customPc": "ARCEOBOT",
+    "path": "./",
+    "usePairingCode": true
+  },
+  "system": {
+    "antiCall": true,
+    "antiSpam": true,
+    "autoClear": true
+  }
+}
