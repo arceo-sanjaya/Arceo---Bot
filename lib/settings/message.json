@@ -1,0 +1,16 @@
+{
+  "message": {
+    "wait": "Processing, please wait...",
+    "creator": "This command is specifically for creators.",
+    "owner": "This command is specifically for owners.",
+    "premium": "This command is specifically for premium users.",
+    "group": "This command is exclusive to group chats.",
+    "private": "This command is exclusive to private chats.",
+    "admin": "This command can be used if you are admin.",
+    "botAdmin": "This command can be used if the bot is admin.",
+    "noText": "Please provide the required text.",
+    "noTag": "Please tag or reply to a target user.",
+    "rejectCall": "Sorry, the bot does not receive any calls.",
+    "error": "An error occurred. Please try again later."
+  }
+}

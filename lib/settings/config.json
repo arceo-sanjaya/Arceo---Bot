@@ -1,0 +1,44 @@
+{
+  "bot": {
+    "name": "Arceo BOT",
+    "number": "6287825173398",
+    "version": "1.0"
+  },
+  "owner": {
+    "name": "Sanjaya",
+    "number": "6289654057716"
+  },
+  "sticker": {
+    "name": "Sticker by ",
+    "author": "Arceo BOT"
+  },
+  "system": {
+    "usePrefix": true,
+    "antiCall": {
+      "log": true,
+      "voice": true,
+      "video": true,
+      "reject": true,
+      "block": false,
+      "msg": "Sorry, I can't take calls."
+    },
+    "antiSpam": {
+      "active": false,
+      "max": 5,
+      "time": "10s"
+    },
+    "autoClear": {
+      "active": false,
+      "time": "5m"
+    },
+    "autoRead": true
+  },
+  "connect": {
+    "customPairingCode": "ARCEOBOT",
+    "usePairingCode": true,
+    "session": {
+      "name": "session",
+      "path": "./"
+    }
+  }
+}

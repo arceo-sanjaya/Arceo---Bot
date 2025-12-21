@@ -1,0 +1,20 @@
+{
+  "name": "Arceo-BOT",
+  "version": "1.0",
+  "author": "Sanjaya",
+  "type": "module",
+  "main": "lib/index.js",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node lib/index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:@arceos/baileys",
+    "better-sqlite3": "^12.4.6",
+    "chalk": "^4.1.2",
+    "libphonenumber-js": "^1.12.29",
+    "node-webpmux": "^3.2.1"
+  }
+}
